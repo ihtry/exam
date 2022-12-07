@@ -1,0 +1,30 @@
+{
+  "name": "exam",
+  "version": "1.0.0",
+  "description": "专升本考试",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "dependencies": {
+    "vuepress": "^1.9.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ihtry/exam.git"
+  },
+  "keywords": [
+    "专升本"
+  ],
+  "author": "Joker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ihtry/exam/issues"
+  },
+  "homepage": "https://github.com/ihtry/exam#readme"
+}
