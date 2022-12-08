@@ -4,7 +4,6 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: `https://cdn.static.ihtry.com/static/images/favicon.ico` }]
     ],
-    permalink: "/:year/:month/:day/:slug",
     // 主题配置
     themeConfig: {
         logo: 'https://code-static.oss-cn-beijing.aliyuncs.com/static/images/690x200.png',
